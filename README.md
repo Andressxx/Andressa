@@ -28,7 +28,7 @@ Mi trayectoria combina comprensión del negocio con desarrollo de soluciones ana
 
 ## Experiencia profesional
 
-### Data Analyst · SEARCH IT — Cliente: BBVA
+### Data Analyst · SEARCH IT 
 **Febrero de 2024 – actualidad**
 
 - Diseño y optimización de dashboards en Power BI y Looker Studio, con una reducción del **35 %** en el tiempo de análisis y generación de informes.
@@ -38,7 +38,7 @@ Mi trayectoria combina comprensión del negocio con desarrollo de soluciones ana
 - Definición de KPIs y métricas financieras; validación y depuración de datos con SQL y Python.
 - Integración de Oracle Database y otras fuentes, en colaboración con equipos de negocio y tecnología.
 
-### Analista BI · IZERTIS — Cliente: BMW Bank
+### Analista BI · IZERTIS
 **Febrero de 2023 – febrero de 2024**
 
 - Desarrollo de consultas SQL para información operativa y financiera, reduciendo un **30 %** los tiempos de extracción.
