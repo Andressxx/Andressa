@@ -62,4 +62,4 @@ Mi trayectoria combina comprensión del negocio con desarrollo de soluciones ana
 
 ## Idiomas
 
-Portugués nativo · Español C2 · Inglés B1 · Francés A2
+Portugués nativo · Español C2 · Inglés B1 
